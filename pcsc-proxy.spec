@@ -1,7 +1,3 @@
-#
-# Conditional build:
-%bcond_without	static_libs	# static library
-#
 Summary:	PC/SC Proxy for Linux
 Summary(de.UTF-8):	PC/SC Proxy für Linux
 Summary(pl.UTF-8):	Proxy PC/SC dla Linuksa
